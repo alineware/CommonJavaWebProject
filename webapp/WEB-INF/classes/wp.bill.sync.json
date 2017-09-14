@@ -1,0 +1,37 @@
+{
+"zone_code":"320000",
+"method":"wp.bill.sync",
+"timestamp ":"20170701121200",
+"version":"1.0",
+"biz_content ":[{
+"billno":"98039382",
+"crccode":"1234",
+"billdate":"20170630",
+"pay_amount":10.01,
+"total_amount":10.01,
+"delay_amount":0.00,
+"billstats":"1",
+"chg_code":"001001",
+"chg_name":"接口测试",
+"payer_name":"测试",
+"payer_acct":"1234567780",
+"payer_opbk":"dadadadaddad",
+"rec_acctype":"1",
+"rec_name":"测试",
+"rec_acct":"测试",
+"rec_opbk":"测试111",
+"rec_bkcode":"102100000353",
+"interbank":"0",
+"remark":"测试",
+"paylistfmt":"01",
+"paylist":[{
+"Item_code":"0001",
+"Item_name":"ceshi",
+"item_amount":2.0,
+"unit":"1",
+"num":2,
+"stdtype":"无限制12",
+"standard":"0.0-0.0"
+}]
+}]
+}

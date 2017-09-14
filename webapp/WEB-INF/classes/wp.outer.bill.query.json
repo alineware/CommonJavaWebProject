@@ -1,0 +1,10 @@
+{
+"method":"wp.outer.bill.pay.query",
+"timestamp":"20170701121200",
+"bankindex":"D3200000103",
+"biz_content":[{
+"billno":"3943988",
+"paymode":"01",
+"crccode":"1101"
+}]
+}
